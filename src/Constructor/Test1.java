@@ -4,6 +4,10 @@ public class Test1
 {
 //Constructor--->1)Defulat Constructor 2)user_defined Constructor
 //compiler---->Defulat Constructor--->Test1{}                     check the code right code yes or no 
+	
+	//we can create multiple constuter inside a class and called to be construter
+		//with differnt argument
+	
 	public static void main(String[] args) 
 	{
 		//step 1: create object of same class
@@ -23,3 +27,4 @@ public class Test1
 
 }
 }
+//

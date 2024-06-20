@@ -28,7 +28,8 @@ public class Test6
 
 //Constructor name same argu differnt nothing but Constructor overloading
 
-
+//we can create multiple constuter inside a class and called to be construter
+	//with differnt argument
 	public static void main(String[] args) 
 	{
        Test6 t6= new Test6();
